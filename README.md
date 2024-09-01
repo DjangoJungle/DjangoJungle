@@ -7,6 +7,24 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
+
+## How you doing?!
+* 🏫 I majored in computer science and technology in Zhejiang University.
+* 🔬 I am currently doing some work, including the Text2Image model and edge intelligence.
+* 🌏 Hope to change the world someday.
+* 🏝️ I've always thought that people need to spend a fair amount of outside the room, to feel they do exist.
+* 🐈 I have two cats at home!😍
+
+
+
+<!-- https://github.com/badges/shields -->
+<p align="center">
+<a href="https://github.com/DjangoJungle"><img src="https://img.shields.io/badge/GitHub-DjangoJungle-blue?logo=github" /></a>
+<a href="https://space.bilibili.com/325130632"><img src="https://img.shields.io/badge/哔哩哔哩-Jungle想乡-pink?logo=bilibili" /></a>
+<img src="https://img.shields.io/badge/Wechat-15013230805-green?logo=wechat" />
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<img src="https://komarev.com/ghpvc/?username=DjangoJungle&abbreviated=true&color=yellow" />
+</p>
  
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -22,15 +40,6 @@
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=c,cpp,py,java,pytorch,vue,docker,mysql,md,git&theme=light" />
-</p>
- 
-<!-- https://github.com/badges/shields -->
-<p align="center">
-<a href="https://github.com/DjangoJungle"><img src="https://img.shields.io/badge/GitHub-DjangoJungle-blue?logo=github" /></a>
-<a href="https://space.bilibili.com/325130632"><img src="https://img.shields.io/badge/哔哩哔哩-Jungle想乡-pink?logo=bilibili" /></a>
-<img src="https://img.shields.io/badge/Wechat-15013230805-green?logo=wechat" />
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=DjangoJungle&abbreviated=true&color=yellow" />
 </p>
  
 <!-- https://github.com/kyechan99/capsule-render -->
