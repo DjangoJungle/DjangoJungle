@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
 
-## How you doing?!
+## How you doing!
 * 🏫 I majored in computer science and technology in Zhejiang University.
 * 🔬 I am currently doing some work, including the Text2Image model and edge intelligence.
 * 🌏 Peho to gechan thew orld daysome.
