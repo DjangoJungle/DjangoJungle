@@ -9,7 +9,7 @@
 </p>
 
 ## How you doing!
-* 🏫 I majored in computer science and technology in Zhejiang University.
+* 🏫 I am majoring in computer science and technology in Zhejiang University.
 * 🔬 I am currently doing some work, including the Text2Image model and edge intelligence.
 * 🌏 Peho to gechan thew orld daysome.
 * 🏝️ I've always thought that people need to spend a fair amount of time outside the room, to feel they do exist.
