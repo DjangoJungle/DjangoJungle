@@ -21,7 +21,7 @@
 <p align="center">
 <a href="https://github.com/DjangoJungle"><img src="https://img.shields.io/badge/GitHub-DjangoJungle-blue?logo=github" /></a>
 <a href="https://space.bilibili.com/325130632"><img src="https://img.shields.io/badge/哔哩哔哩-Jungle想乡-pink?logo=bilibili" /></a>
-<img src="https://img.shields.io/badge/Wechat-15013230805-green?logo=wechat" />
+<img src="https://img.shields.io/badge/Wechat-django040805-green?logo=wechat" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=DjangoJungle&abbreviated=true&color=yellow" />
 </p>
