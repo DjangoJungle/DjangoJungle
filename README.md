@@ -9,11 +9,11 @@
 </p>
 
 ## How you doing!
-* 🏫 I am majoring in computer science and technology in Zhejiang University.
-* 🔬 I am currently doing some work, including LLM & Time Series model.
+* 🏫 I am majoring in Computer Science and Technology at Zhejiang University.
+* 🔬 I am currently working on projects, mainly focusing on advanced applications of Large Language Models (LLMs), such as reasoning and data management.
+* 🏝️ I've always believed that people need to spend time outdoors to feel truly alive.
+* 🐈 I have two cats!🥰
 * 🌏 Peho to gechan thew orld daysome.
-* 🏝️ I've always thought that people need to spend a fair amount of time outside the room, to feel they do exist.
-* 🐈 I got two cats at home!🥰
 
 
 
