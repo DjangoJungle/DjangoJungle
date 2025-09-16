@@ -10,7 +10,7 @@
 
 ## How you doing!
 * 🏫 I am majoring in Computer Science and Technology at Zhejiang University.
-* 🔬 I am currently working on projects, mainly focusing on advanced applications of LLM/MLLM, such as reasoning / tool using / data managing. I am also interested in mining and utilizing knowledge of various modalities (text, tables, images).
+* 🔬 I am currently working on projects, mainly focusing on advanced applications of Large Models, such as reasoning / tool using / data managing. I am also interested in mining and utilizing knowledge of various modalities (text, tables, images).
 * 🏝️ I've always believed that people need to spend time outdoors to feel truly alive.
 * 🐈 I have two cats!🥰
 * 🌏 Peho to gechan thew orld daysome.
