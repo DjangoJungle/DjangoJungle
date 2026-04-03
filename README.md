@@ -10,22 +10,12 @@
 
 ## How you doing!
 * 🏫 I am majoring in Computer Science and Technology at Zhejiang University.
-* 🔬 I am currently working on projects, mainly focusing on advanced applications of Large Models, such as reasoning / tool using / data managing. I am also interested in mining and utilizing knowledge of various modalities (text, tables, images).
+* 🔬 My research focuses on building autonomous agentic systems driven by foundation models (LLMs / MLLMs). My goal is to ensure these agents operate effectively and reliably, and create positive real-world impact.
 * 🏝️ I've always believed that people need to spend time outdoors to feel truly alive.
 * 🐈 I have two cats!🥰
 * 🌏 Peho to gechan thew orld daysome.
 
 
-
-<!-- https://github.com/badges/shields -->
-<p align="center">
-<a href="https://github.com/DjangoJungle"><img src="https://img.shields.io/badge/GitHub-DjangoJungle-blue?logo=github" /></a>
-<a href="https://space.bilibili.com/325130632"><img src="https://img.shields.io/badge/哔哩哔哩-Jungle想乡-pink?logo=bilibili" /></a>
-<img src="https://img.shields.io/badge/Wechat-django040805-green?logo=wechat" />
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=DjangoJungle&abbreviated=true&color=yellow" />
-</p>
- 
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=DjangoJungle&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
@@ -48,26 +38,5 @@
 </p>
 
 
-
-
-
-
-
-
-
-<!--
-**DjangoJungle/DjangoJungle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
