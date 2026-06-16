@@ -26,8 +26,8 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=DjangoJungle&theme=github-compact&hide_border=true&area=true">
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjangoJungle&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<br/>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjangoJungle&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<br/> -->
 <!-- https://github.com/tandpfun/skill-icons -->
 <!-- <img align="center" src="https://skillicons.dev/icons?i=c,cpp,py,java,pytorch,vue,docker,mysql,md,git&theme=light" /> -->
 </p>
